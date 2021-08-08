@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BookShope</string>
+    <string name="navigation_drawer_close" translatable="false" />
+    <string name="navigation_drawer_open" translatable="false" />
+    <string-array name="Spinner_items">
+        <item>New Delhi</item>
+        <item>Shastri Park</item>
+        <item>NIEC</item>
+        <item>Karolbagh</item>
+        <item>ITO</item>
+    </string-array>
+    </resources>
